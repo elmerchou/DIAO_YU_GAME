@@ -28,7 +28,7 @@ Play the game [here](https://fobshippingpoint.itch.io/diaoyu).
 
 ## Author
 
-- [@ElmerChou](https://github.com/elmerchou):
+- [@ElmerChou](https://github.com/elmerchou)
 - [@FOBshippingpoint](https://github.com/FOBshippingpoint)
 - [@Leo Chen PPDragon](https://github.com/zx123497)
 - [@Xupertomato](https://github.com/Xupertomato)
