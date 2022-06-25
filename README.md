@@ -1,7 +1,7 @@
 # DIAO_YU_GAME
 ![GitHub](https://img.shields.io/github/license/elmerchou/DIAO_YU_GAME?style=for-the-badge)
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
-<img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/elmerchou/DIAO_YU_GAME?style=for-the-badge">
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/elmerchou/DIAO_YU_GAME?style=for-the-badge)
 
 ## About
 一個改編自影集「魷魚遊戲」的惡搞釣魚小遊戲，製作自中央創遊Game Jam 2021 第五組。您可透過[此連結](https://fobshippingpoint.itch.io/diaoyu)遊玩本遊戲。
